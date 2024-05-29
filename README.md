@@ -61,8 +61,9 @@ Click the image above or [this link](https://www.youtube.com/watch?v=jYHpE68Rauw
 
 ## Contributors
 
-[Harshvardhan]((https://github.com/DEDSWIN))
-[Ammar Ahmad]((https://github.com/ammarahmad))
+[Harshvardhan](https://github.com/DEDSWIN)
+
+[Ammar Ahmad](https://github.com/ammarahmad)
 
 
 ---
