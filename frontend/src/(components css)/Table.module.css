@@ -1,0 +1,48 @@
+/* Table.module.css */
+.tableContainer {
+	width: 100%;
+	overflow-x: auto; /* Enable horizontal scrollbar if needed */
+}
+
+.tableWrapper {
+	overflow-x: auto; /* Enable horizontal scrollbar if needed */
+}
+
+.table {
+	color: black;
+	width: 100%;
+	border-collapse: collapse;
+}
+
+/* Attach a class name to th and td */
+.cell {
+	padding: 8px;
+	border: 1px solid #ddd;
+}
+
+.input {
+	width: 100%;
+	padding: 6px 8px;
+	box-sizing: border-box;
+}
+
+.button {
+	margin-top: 10px;
+	padding: 5px 15px;
+	font-size: 18px;
+	border-radius: 7px;
+	cursor: pointer;
+	background-color: #11aa3d;
+
+	color: aliceblue;
+	font-family: sans-serif;
+	text-align: center;
+	border: none;
+	font-weight: 600;
+	box-shadow: 0 0 10px rgba(255, 255, 255, 0.5), 5px 5px 20px rgba(0, 0, 0, 0.3); /* Inner white glow and Outer dark glow */
+}
+.serialColumn {
+	width: 100px; /* Adjust width as needed */
+	text-align: center; /* Center the content */
+	font-weight: bold;
+}

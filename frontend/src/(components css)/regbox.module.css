@@ -1,0 +1,62 @@
+.button {
+	padding: 5px 15px 5px 15px;
+	width: fit-content;
+	height: 35px;
+	font-size: 20px;
+	border-radius: 7px;
+	cursor: pointer;
+	background-color: #0c4f99;
+	color: aliceblue;
+	font-family: sans-serif;
+	text-align: center;
+	border: none;
+	font-weight: 600;
+	box-shadow: 0 0 10px rgba(255, 255, 255, 0.5); /* Inner white glow */
+	box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.3); /* Outer dark glow */
+}
+
+.input {
+	width: 250px;
+	margin-right: 35px;
+	margin-bottom: 20px;
+}
+
+.box {
+	display: flex;
+	flex-direction: column;
+	margin-left: 60px;
+	align-items: center;
+	width: fit-content;
+}
+
+.dropdown {
+	/* Your styles here */
+	border: 1px solid #c5c5c5;
+	padding: 8px 5px 8px 5px;
+	border-radius: 4px;
+	font-size: 16px;
+	height: fit-content;
+	width: 250px;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	margin-right: 35px;
+}
+
+.loginbox {
+	margin-top: 40px;
+	color: black;
+	background-color: white;
+	display: flex;
+	justify-content: center;
+	width: fit-content;
+	padding: 40px;
+	border-radius: 20px;
+	box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3);
+	margin-bottom: 10px;
+}
+.fieldbox {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}

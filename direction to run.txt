@@ -1,0 +1,7 @@
+project partners-
+2201CS92- Harshvardhan
+2201AI04 - Ammar ahmad
+
+first open docker on pc 
+then run the docker-compose.yml file 
+and go on localhost:3000 
