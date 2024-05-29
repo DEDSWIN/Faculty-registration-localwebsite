@@ -1,4 +1,3 @@
-Thank you for providing the video link. Here is the updated README.md file with the video link included:
 
 ---
 
