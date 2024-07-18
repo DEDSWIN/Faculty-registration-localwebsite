@@ -63,7 +63,7 @@ Click the image above or [this link](https://www.youtube.com/watch?v=jYHpE68Rauw
 
 [Harshvardhan](https://github.com/DEDSWIN)
 
-[Ammar Ahmad](https://github.com/ammarahmad)
+[Ammar Ahmad](https://github.com/ammarrahmad)
 
 
 ---
