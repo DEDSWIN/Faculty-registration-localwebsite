@@ -20,7 +20,8 @@ The project is structured into the following main directories and files:
 
 For a detailed walkthrough of the Faculty Registration Website, please watch the following video:
 
-[![Watch the video](https://img.youtube.com/vi/ljjtaA0QRGY/0.jpg)](https://youtu.be/ljjtaA0QRGY)
+[![Watch the video](https://img.youtube.com/vi/jYHpE68Rauw/0.jpg)](https://www.youtube.com/watch?v=jYHpE68Rauw)
+Click the image above or [this link](https://www.youtube.com/watch?v=jYHpE68Rauw) to watch the video on YouTube.
 
 ## Features
 
